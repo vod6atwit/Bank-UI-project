@@ -24,7 +24,7 @@ Bank UI is the program that creating friendly user interface for bank account
 
 ### Run
 
-#### Create Account
+#### <strong>Create Account</Strong>
 
   1. Run createSequentialFile.java to open a UI window and enter all the information for an account
   
