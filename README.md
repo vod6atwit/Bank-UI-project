@@ -48,6 +48,9 @@ Bank UI is the program that creating friendly user interface for bank account
   
   <img src="img/Read account step 4.png" width = 49%> <img src="img/Read account step 5.png" width = 49%>
  
+  6. An error window appears if there are no accounts left 
+  
+  <img src="img/Read account step 66.png" width = 50%>
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
