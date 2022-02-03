@@ -42,7 +42,7 @@ Bank UI is the program that creating friendly user interface for bank account
   
   4. Click open file button and locate the file you just saved
   
-  <img src="img/Read account step 2.png" width = 49%><img src="img/Read account step 3.png" width = 49%>
+  <img src="img/Read account step 2.png" width = 48%><img src="img/Read account step 3.png" width = 48%>
   
   5. 
  
