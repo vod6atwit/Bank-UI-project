@@ -5,7 +5,7 @@
 Bank UI is the program that creating friendly user interface for bank account
 
 <img src="img/Create account step 1.png" width = 50% > <img src="img/Read account step 1.png" width = 50% > 
-Create account                                          Read existing account
+
 ## Features
 
   1. Login interface
