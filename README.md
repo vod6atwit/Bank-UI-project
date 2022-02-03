@@ -24,13 +24,13 @@ Bank UI is the program that creating friendly user interface for bank account
 
 ### Run
 
- <strong>Create Account</Strong>
+#### Create Account
 
   1. Run createSequentialFile.java to open a UI window and enter all the information for an account
   
   <img src="img/Create account step 1.png" width = 50% >
   
-  2. Click save into file... button to choose which folder you want to save 
+  2. Click save into file... button to choose which folder you want to save, then click enter to save the infomations
   
   <img src="img/Create account step 2.png" width = 50% >
   
@@ -40,11 +40,13 @@ Bank UI is the program that creating friendly user interface for bank account
   
   <img src="img/Read account step 1.png" width = 50% >
   
-  4. Click open file button and locate the file you just saved
+  4. Click open file button, locate the file you just saved and click open
   
   <img src="img/Read account step 2.png" width = 49%> <img src="img/Read account step 3.png" width = 49%>
   
-  5. 
+  5. Click Next Record to see all the informations
+  
+  <img src="img/Read account step 4.png" width = 49%> <img src="img/Read account step 5.png" width = 49%>
  
 
 ## Contributing
